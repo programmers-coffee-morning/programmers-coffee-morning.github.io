@@ -1,2 +1,3 @@
 # programmers-coffee-morning
-source for the website
+
+Don't change here. [Here is the source](https://github.com/programmers-coffee-morning/programmers-coffee-morning).
